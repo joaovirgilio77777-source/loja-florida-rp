@@ -104,7 +104,7 @@ useEffect(() => {
     try {
       // Simulação de chamada para o Mercado Pago
       mostrarNotificacao("Gerando PIX...");
-      setChavePix("00020126580014BR.GOV.BCB.PIX0136123e4567-e12b-12d1-a456-42661417400052040000530398654041.005802BR5913FLORIDA RP6009SAO PAULO62070503***6304E2CA");
+      setChavePix("Vortex Digital Sites");
       setPixGerado(true);
     } catch (error) {
       mostrarNotificacao("Erro ao gerar PIX.");
@@ -231,4 +231,5 @@ useEffect(() => {
       <Footer />
     </>
   )
+
 }
