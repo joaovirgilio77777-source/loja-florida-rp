@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="footer-group">
           <h4>Nossas Redes</h4>
           {/* Troque o # pelo link do seu Instagram, Discord e TikTok */}
-          <a href="https://discord.gg/floridarp" target="_blank" rel="noreferrer">Discord Oficial</a>
+          <a href="https://discord.gg/TZYmunkHkc" target="_blank" rel="noreferrer">Discord Oficial</a>
           <a href="https://instagram.com/SEUPERFIL" target="_blank" rel="noreferrer">Instagram</a>
           <a href="https://tiktok.com/@SEUPERFIL" target="_blank" rel="noreferrer">TikTok</a>
         </div>
@@ -22,4 +22,5 @@ export default function Footer() {
       </div>
     </footer>
   );
+
 }
