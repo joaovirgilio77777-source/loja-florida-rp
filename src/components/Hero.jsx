@@ -37,7 +37,7 @@ export default function Hero() {
 </p>
 
 <a 
-  href="https://discord.gg/floridarp" 
+  href="https://discord.gg/TZYmunkHkc" 
   target="_blank" 
   rel="noreferrer" 
   className="discord-btn"
@@ -56,4 +56,5 @@ export default function Hero() {
     </section>
   )
 }
+
 
