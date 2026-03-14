@@ -12,7 +12,7 @@ const listaProdutos = [
   { id: 5, nome: "VIP SUPREMO", preco: "R$ 180,00", categoria: "vips", destaque: false, imagem: "/vip.png" },
   { id: 6, nome: "VEICULO PRIVADO PERMA", preco: "R$ 120,00", categoria: "veiculos priv", destaque: false, imagem: "/veículos.png" },
   { id: 7, nome: "VEICULO PRIVADO MENSAL", preco: "R$ 50,00", categoria: "veiculos priv", destaque: false, imagem: "/veículos.png" },
-  { id: 8, nome: "PÊNIS", preco: "R$ 45,00", categoria: "outros", destaque: false, imagem: "/outros.png" },
+  { id: 8, nome: "VASSOURA", preco: "R$ 45,00", categoria: "outros", destaque: false, imagem: "/outros.png" },
   { id: 9, nome: "MILICIA", preco: "R$ 500,00", categoria: "Facção", destaque: false, imagem: "/facção.png" },
   { id: 10, nome: "FACÇÃO", preco: "R$ 250,00", categoria: "Facção", destaque: false, imagem: "/facção.png" },
   { id: 11, nome: "CORPORAÇÃO", preco: "R$ 200,00", categoria: "corporações", destaque: true, imagem: "/corp.png" },
